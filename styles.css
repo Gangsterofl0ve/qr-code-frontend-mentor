@@ -1,0 +1,25 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: url(https://fonts.google.com/specimen/Outfi), Arial;
+}
+div {
+    margin: auto;
+    width: 50%;
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    border-radius: 25px;
+    transform: scale(0.7);
+}
+.photo{
+  border-radius: 25px;
+  position: relative;
+  top: 25px;
+}
+h1 {
+  font-size: 20px;
+  font-weight: 700;
+}
+p {
+  font-size: 15px;
+  font-weight: 400;
+}
